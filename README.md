@@ -12,7 +12,7 @@ The flashcards are based on _CLASE A - CATEGORÍA I_ questions publish here: [Ev
   </a>
 
 ## Second Step
-+ Import the `DriverLicence-A1.apkg` within the Ankidroid application:
++ Import the `Driver Licence A1.apkg` within the Ankidroid application:
 
 
 ## What is Anki?
