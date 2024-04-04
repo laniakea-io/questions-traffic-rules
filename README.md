@@ -1,19 +1,18 @@
 # Traffic rules questions for A1 driver licence test.
-The flashcards are based on _CLASE A - CATEGORÍA I_ questions publish here: [Evaluacion de conocimientos](https://portal.mtc.gob.pe/transportes/terrestre/licencias/evaluacion-de-conocimientos.html)
+The flashcards are based on _"CLASE A - CATEGORÍA I"_ questions published here: [Evaluacion de conocimientos](https://portal.mtc.gob.pe/transportes/terrestre/licencias/evaluacion-de-conocimientos.html)
 
-## First Step
-+ Install *Ankidroid*, it's available at PlayStore & F-Droid
+## How to import the flashcards into Ankidroid?
+### First Step
++ Install **Ankidroid**, it's available PlayStore & F-Droid <br />
   <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki">
     <img alt="Get it on Google Play" height="80" src="logos/google-badge.png"/>
   </a>
-
   <a href="https://f-droid.org/en/packages/com.ichi2.anki/">
     <img alt="Get it on F-Droid" height="80" src="logos/f-droid-badge.png">
   </a>
 
-## Second Step
+### Second Step
 + Import the `Driver Licence A1.apkg` within the Ankidroid application:
-
 
 ## What is Anki?
 ---
