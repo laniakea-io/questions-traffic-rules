@@ -12,6 +12,7 @@ Install **Ankidroid**, it's available in PlayStore & F-Droid.
 ### Second Step
 Download the `Driver Licence A1.apkg` file stored in this repository and then import it into the Ankidroid application.
 <div>
+  <img width="300" src="img/AnkiDroid-0.png" />
   <img width="300" src="img/AnkiDroid-1.png" />
   <img width="300" src="img/AnkiDroid-2.png" />
 </div>
